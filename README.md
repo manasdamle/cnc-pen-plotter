@@ -5,6 +5,9 @@ A CNC pen plotter built from scratch using 3D-printed parts, stepper motors, and
 > Built as a school project bridging engineering and code.
 
 ---
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/55d4b473-c7b8-4314-91f3-ab1adc4a8412
 
 ## 📸 Gallery
 
