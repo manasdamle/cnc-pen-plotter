@@ -6,12 +6,6 @@ A CNC pen plotter built from scratch using 3D-printed parts, stepper motors, and
 
 ---
 
-## 🎥 Demo
-
-![Plotter Demo](demo/plotter_demo.mp4)
-
----
-
 ## 📸 Gallery
 
 | Hardware | Mounted |
@@ -20,7 +14,7 @@ A CNC pen plotter built from scratch using 3D-printed parts, stepper motors, and
 
 | Input → Outline (Chameleon) | Input → Outline (Terraria) |
 |-------------|------------------|
-| ![Chameleon](images/plotter_sketch2.png) | ![Terraria](images/plotter_sketch.png) |
+| ![Build](plotter_sketch.png) | ![Build](plotter_sketch2.png) |
 
 ---
 
