@@ -10,11 +10,11 @@ A CNC pen plotter built from scratch using 3D-printed parts, stepper motors, and
 
 | Hardware | Mounted |
 |----------|---------|
-| ![Build](plotter_image.png) | ![Mounted](plotter_image2.png) |
+| ![Build](Images/plotter_image.png) | ![Mounted](Images/plotter_image2.png) |
 
 | Input → Outline (Chameleon) | Input → Outline (Terraria) |
 |-------------|------------------|
-| ![Build](plotter_sketch.png) | ![Build](plotter_sketch2.png) |
+| ![Build](Images/plotter_sketch.png) | ![Build](Images/plotter_sketch2.png) |
 
 ---
 
