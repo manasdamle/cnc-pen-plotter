@@ -5,21 +5,6 @@ A CNC pen plotter built from scratch using 3D-printed parts, stepper motors, and
 > Built as a school project bridging engineering and code.
 
 ---
-## 🎥 Demo
-
-https://github.com/user-attachments/assets/55d4b473-c7b8-4314-91f3-ab1adc4a8412
-
-## 📸 Gallery
-
-| Hardware | Mounted |
-|----------|---------|
-| ![Build](Images/plotter_image.png) | ![Mounted](Images/plotter_image2.png) |
-
-| Input → Outline (Chameleon) | Input → Outline (Terraria) |
-|-------------|------------------|
-| ![Build](Images/plotter_sketch.png) | ![Build](Images/plotter_sketch2.png) |
-
----
 
 ## 🎯 Project Goals
 
@@ -60,3 +45,21 @@ The image processing pipeline is written in **Python** using:
 - `OpenCV` — edge detection, adaptive thresholding, noise filtering
 - `NumPy` — image array manipulation
 - `Matplotlib` — preview output before plotting
+
+---
+
+## 📸 Gallery
+
+| Hardware | Mounted |
+|----------|---------|
+| ![Build](Images/plotter_image.png) | ![Mounted](Images/plotter_image2.png) |
+
+| Input → Outline (Chameleon) | Input → Outline (Terraria) |
+|-------------|------------------|
+| ![Build](Images/plotter_sketch.png) | ![Build](Images/plotter_sketch2.png) |
+
+---
+
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/55d4b473-c7b8-4314-91f3-ab1adc4a8412
