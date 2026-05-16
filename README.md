@@ -62,4 +62,4 @@ The image processing pipeline is written in **Python** using:
 
 ## 🎥 Demo
 
-![Plotter Demo](https://github.com/user-attachments/assets/55d4b473-c7b8-4314-91f3-ab1adc4a8412)
+https://github.com/user-attachments/assets/55d4b473-c7b8-4314-91f3-ab1adc4a8412
